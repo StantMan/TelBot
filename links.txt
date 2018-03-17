@@ -1,0 +1,5 @@
+1. https://telegram.org/
+2. https://nodejs.org/en/
+3. https://github.com/yagop/node-telegram-bot-api
+4. https://core.telegram.org/bots/api
+5. http://fixer.io/
